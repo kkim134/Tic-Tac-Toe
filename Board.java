@@ -1,6 +1,7 @@
 class Board {
   private char board[];
 
+
   public Board() {
     this.board = new char[] 
     {'-','-','-',
